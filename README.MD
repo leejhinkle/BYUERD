@@ -1,4 +1,4 @@
-A few notes.
+#A few notes.
 
 I didn't have sufficient time to resolve the N:N issues between Person N:N Address and Person N:N Religion. Nor did I deal with the same N:N issues between Student N:N Accomodations and Student N:N High School. Because I dealt with this for Student N:N CourseInstance, creating "Enrollment" and Enrollment N:N GradeScale, creatincg EnrollmentGrade, I assume I've demonstrated sufficiently how to Normalize--at least at that basic level. (The ones unresolved were not used for the SQL queries, so I optimized my time.
 
