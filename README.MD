@@ -10,6 +10,8 @@ Because I dealt with this for Student N:N CourseInstance, creating "Enrollment" 
 
 I didn't outwardly list PK and FK relationships in the diagram. This was also a time constraint issue.
 
+I also wasn't thorough with required and optional relationships. See time constraints.
+
 You would be totally within your rights to say "you should have spent less time commenting and more time working." :D I'll take that. My response is "better to show you how I'm thinking with comments than to simply put everything on paper and not give you insight to me brain.
 
 That said, Good luck. 
